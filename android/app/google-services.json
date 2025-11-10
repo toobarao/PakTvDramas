@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "953141943816",
+    "project_id": "paktvdramas-59c5a",
+    "storage_bucket": "paktvdramas-59c5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953141943816:android:4b8a75eac7484d0366fbbd",
+        "android_client_info": {
+          "package_name": "com.media.monitors.uielem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953141943816-blohva5snfpa5nqfjca2aac6k1aptheg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.media.monitors.uielem",
+            "certificate_hash": "1b161cc108d6c03b19efd8759e17f9154eea2e6f"
+          }
+        },
+        {
+          "client_id": "953141943816-dgs5gtnk1o2l42it9un7985d9rjre1fh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.media.monitors.uielem",
+            "certificate_hash": "5976691a9a719ef79845f76a784ec73f646ca244"
+          }
+        },
+        {
+          "client_id": "953141943816-0tfu3elbo6mol2qn3t3cip2t492tf70v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdDKyqVY2zpp2cYmst2lPlaqxZjjqc0qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953141943816-0tfu3elbo6mol2qn3t3cip2t492tf70v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "953141943816-f2ke8khjvie7j9o4l3edcmg0ub3gicop.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uielem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
