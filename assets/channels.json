@@ -1,0 +1,134 @@
+{
+  "AAJENTERTAINMENT": {
+    "id": 304,
+    "Name": "AAJ ENTERTAINMENT",
+    "IconURL": "/assets/channelLogos/aaj.webp",
+    "BannerURL": "/assets/channel_banners/Aaj-Entertainment.webp"
+  },
+  "APLUS": {
+    "id": 210,
+    "Name": "A PLUS",
+    "IconURL": "/assets/channelLogos/A plus.webp",
+    "BannerURL": "/assets/channel_banners/A-Plus.webp"
+  },
+  "APNACHANNEL": {
+    "id": 25,
+    "Name": "APNA CHANNEL",
+    "IconURL": "/assets/channelLogos/apna channel.webp",
+    "BannerURL": "/assets/channel_banners/Apna-channel.webp"
+  },
+  "ARYDIGITAL": {
+    "id": 5,
+    "Name": "ARY DIGITAL",
+    "IconURL": "/assets/channelLogos/ARY.webp",
+    "BannerURL": "/assets/channel_banners/Ary-Digital.webp"
+  },
+  "ARYZINDAGI": {
+    "id": 100,
+    "Name": "ARY ZINDAGI",
+    "IconURL": "/assets/channelLogos/ARYzindgi.webp",
+    "BannerURL": "/assets/channel_banners/Ary-Zindagi.webp"
+  },
+  "ATV": {
+    "id": 31,
+    "Name": "ATV",
+    "IconURL": "/assets/channelLogos/Atv.webp",
+    "BannerURL": "/assets/channel_banners/ATv.webp"
+  },
+  "BOLENTERTAINMENT": {
+    "id": 428,
+    "Name": "BOL ENTERTAINMENT",
+    "IconURL": "/assets/channelLogos/bol.webp",
+    "BannerURL": "/assets/channel_banners/Bol.webp"
+  },
+  "EXPRESSENTERTAINMENT": {
+    "id": 284,
+    "Name": "EXPRESS ENTERTAINMENT",
+    "IconURL": "/assets/channelLogos/express.webp",
+    "BannerURL": "/assets/channel_banners/Express.webp"
+  },
+  "GEOKAHANI": {
+    "id": 321,
+    "Name": "GEO KAHANI",
+    "IconURL": "/assets/channelLogos/geo kahani.webp",
+    "BannerURL": "/assets/channel_banners/Geo-Kahani.webp"
+  },
+  "GEOENTERTAINMENT": {
+    "id": 4,
+    "Name": "GEO ENTERTAINMENT",
+    "IconURL": "/assets/channelLogos/geo.webp",
+    "BannerURL": "/assets/channel_banners/Geo.webp"
+  },
+  "HUMTV": {
+    "id": 28,
+    "Name": "HUM TV",
+    "IconURL": "/assets/channelLogos/hum channel.webp",
+    "BannerURL": "/assets/channel_banners/Hum-Entertainment.webp"
+  },
+  "HUMSITARAY": {
+    "id": 311,
+    "Name": "HUM SITARAY",
+    "IconURL": "/assets/channelLogos/hum star.webp",
+    "BannerURL": "/assets/channel_banners/Hum-sitaray.webp"
+  },
+  "LTNFAMILY": {
+    "id": 433,
+    "Name": "LTN FAMILY",
+    "IconURL": "/assets/channelLogos/ltn family.webp",
+    "BannerURL": "/assets/channel_banners/Ltn-Family.webp"
+  },
+  "PLAYENTERTAINMENT": {
+    "id": 387,
+    "Name": "PLAY ENTERTAINMENT",
+    "IconURL": "/assets/channelLogos/play.webp",
+    "BannerURL": "/assets/channel_banners/Play.webp"
+  },
+  "PTVHOME": {
+    "id": 3,
+    "Name": "PTV HOME",
+    "IconURL": "/assets/channelLogos/ptv.webp",
+    "BannerURL": "/assets/channel_banners/Ptv-Home.webp"
+  },
+  "TVONE": {
+    "id": 35,
+    "Name": "TV ONE",
+    "IconURL": "/assets/channelLogos/tvone.webp",
+    "BannerURL": "/assets/channel_banners/TVOne.webp"
+  },
+  "URDU1": {
+    "id": 310,
+    "Name": "URDU 1",
+    "IconURL": "/assets/channelLogos/urdu 1.webp",
+    "BannerURL": "/assets/channel_banners/Urdu-1.webp"
+  },
+  "GREENENTERTAINMENT": {
+    "id": 457,
+    "Name": "GREEN ENTERTAINMENT",
+    "IconURL": "/assets/channelLogos/Green Entertainment.webp",
+    "BannerURL": "/assets/channel_banners/Green-Entertainment.webp"
+  },
+  "AANTV": {
+    "id": 450,
+    "Name": "AAN TV",
+    "IconURL": "/assets/channelLogos/AANTV.webp",
+    "BannerURL": "/assets/channel_banners/AanTvbanner.webp"
+  },
+  "AURLIFEHD": {
+    "id": 384,
+    "Name": "AUR LIFE HD",
+    "IconURL": "/assets/channelLogos/AURLIFEHD.webp",
+    "BannerURL": "/assets/channel_banners/Aurlifehdbanner.webp"
+  },
+  "SABTV": {
+    "id": 441,
+    "Name": "SAB TV",
+    "IconURL": "/assets/channelLogos/SABTV.webp",
+    "BannerURL": "/assets/channel_banners/Sabbanner.webp"
+  },
+  "SETENTERTAINMENT": {
+    "id": 478,
+    "Name": "SET ENTERTAINMENT",
+    "IconURL": "/assets/channelLogos/SETENTERTAINMENT.webp",
+    "BannerURL": "/assets/channel_banners/Setbanner.webp"
+  }
+}
